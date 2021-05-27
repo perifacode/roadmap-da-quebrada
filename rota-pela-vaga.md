@@ -16,6 +16,7 @@ Essa lista contém sites diversos, desde grandes empresas de RH a pequenas contr
 |-------------------------------------|--------|--------------|
 |https://www.notion.so/contrata-se.dev|buscador|diversas áreas|
 |https://github.com/frontendbr/vagas |buscador|front-end     |
+|https://github.com/backend-br/vagas |buscador|back-end     |
 |https://www.transempregos.org/       |buscador|diversas áreas|
 |www.nube.com.br                      |plataforma|diversas áreas|
 |https://www.apinfo.com/apinfo/       |plataforma|diversas áreas|
